@@ -1,2 +1,2 @@
 # HR-Payroll-Automation-System
-Excel-based HR automation system for attendance tracking, payroll processing, overtime calculation, and automatic salary slip generation.
+Designed and developed a fully automated HR Attendance and Payroll Management System using Microsoft Excel. The solution automates attendance tracking, payroll calculations, overtime computation, statutory deductions, and dynamic salary slip generation. Built to reduce manual effort, improve payroll accuracy, and streamline HR operations through Excel-based automation.
